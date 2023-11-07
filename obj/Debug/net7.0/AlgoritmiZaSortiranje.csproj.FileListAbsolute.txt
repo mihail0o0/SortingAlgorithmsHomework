@@ -1,0 +1,15 @@
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/bin/Debug/net7.0/AlgoritmiZaSortiranje
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/bin/Debug/net7.0/AlgoritmiZaSortiranje.deps.json
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/bin/Debug/net7.0/AlgoritmiZaSortiranje.runtimeconfig.json
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/bin/Debug/net7.0/AlgoritmiZaSortiranje.dll
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/bin/Debug/net7.0/AlgoritmiZaSortiranje.pdb
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/obj/Debug/net7.0/AlgoritmiZaSortiranje.csproj.AssemblyReference.cache
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/obj/Debug/net7.0/AlgoritmiZaSortiranje.GeneratedMSBuildEditorConfig.editorconfig
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/obj/Debug/net7.0/AlgoritmiZaSortiranje.AssemblyInfoInputs.cache
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/obj/Debug/net7.0/AlgoritmiZaSortiranje.AssemblyInfo.cs
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/obj/Debug/net7.0/AlgoritmiZaSortiranje.csproj.CoreCompileInputs.cache
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/obj/Debug/net7.0/AlgoritmiZaSortiranje.dll
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/obj/Debug/net7.0/refint/AlgoritmiZaSortiranje.dll
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/obj/Debug/net7.0/AlgoritmiZaSortiranje.pdb
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/obj/Debug/net7.0/AlgoritmiZaSortiranje.genruntimeconfig.cache
+/home/mix/Documents/c#/AlgoritmiZaSortiranje/obj/Debug/net7.0/ref/AlgoritmiZaSortiranje.dll

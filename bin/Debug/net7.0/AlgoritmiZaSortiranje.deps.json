@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AlgoritmiZaSortiranje/1.0.0": {
+        "runtime": {
+          "AlgoritmiZaSortiranje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgoritmiZaSortiranje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
